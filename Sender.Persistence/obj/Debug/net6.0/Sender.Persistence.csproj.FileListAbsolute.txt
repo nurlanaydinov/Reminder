@@ -1,0 +1,36 @@
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\bin\Debug\net6.0\Sender.Persistence.deps.json
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\bin\Debug\net6.0\Sender.Persistence.runtimeconfig.json
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\bin\Debug\net6.0\Sender.Persistence.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\bin\Debug\net6.0\Sender.Persistence.pdb
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\bin\Debug\net6.0\Sender.Domain.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\bin\Debug\net6.0\Sender.Domain.pdb
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.csproj.AssemblyReference.cache
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.AssemblyInfoInputs.cache
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.AssemblyInfo.cs
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.csproj.CopyComplete
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\obj\Debug\net6.0\refint\Sender.Persistence.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.pdb
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.genruntimeconfig.cache
+C:\Users\Ismayil\source\repos\Sender\Sender.Persistence\obj\Debug\net6.0\ref\Sender.Persistence.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\bin\Debug\net6.0\Sender.Persistence.deps.json
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\bin\Debug\net6.0\Sender.Persistence.runtimeconfig.json
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\bin\Debug\net6.0\Sender.Persistence.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\bin\Debug\net6.0\Sender.Persistence.pdb
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\bin\Debug\net6.0\Sender.Application.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\bin\Debug\net6.0\Sender.Domain.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\bin\Debug\net6.0\Sender.Application.pdb
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\bin\Debug\net6.0\Sender.Domain.pdb
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.AssemblyInfo.cs
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.csproj.CopyComplete
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\obj\Debug\net6.0\refint\Sender.Persistence.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.pdb
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\obj\Debug\net6.0\Sender.Persistence.genruntimeconfig.cache
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Persistence\obj\Debug\net6.0\ref\Sender.Persistence.dll

@@ -1,0 +1,24 @@
+C:\Users\Ismayil\source\repos\Sender\Sender.Domain\bin\Debug\net6.0\Sender.Domain.deps.json
+C:\Users\Ismayil\source\repos\Sender\Sender.Domain\bin\Debug\net6.0\Sender.Domain.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Domain\bin\Debug\net6.0\Sender.Domain.pdb
+C:\Users\Ismayil\source\repos\Sender\Sender.Domain\obj\Debug\net6.0\Sender.Domain.csproj.AssemblyReference.cache
+C:\Users\Ismayil\source\repos\Sender\Sender.Domain\obj\Debug\net6.0\Sender.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismayil\source\repos\Sender\Sender.Domain\obj\Debug\net6.0\Sender.Domain.AssemblyInfoInputs.cache
+C:\Users\Ismayil\source\repos\Sender\Sender.Domain\obj\Debug\net6.0\Sender.Domain.AssemblyInfo.cs
+C:\Users\Ismayil\source\repos\Sender\Sender.Domain\obj\Debug\net6.0\Sender.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil\source\repos\Sender\Sender.Domain\obj\Debug\net6.0\Sender.Domain.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Domain\obj\Debug\net6.0\refint\Sender.Domain.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Domain\obj\Debug\net6.0\Sender.Domain.pdb
+C:\Users\Ismayil\source\repos\Sender\Sender.Domain\obj\Debug\net6.0\ref\Sender.Domain.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Domain\bin\Debug\net6.0\Sender.Domain.deps.json
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Domain\bin\Debug\net6.0\Sender.Domain.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Domain\bin\Debug\net6.0\Sender.Domain.pdb
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Domain\obj\Debug\net6.0\Sender.Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Domain\obj\Debug\net6.0\Sender.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Domain\obj\Debug\net6.0\Sender.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Domain\obj\Debug\net6.0\Sender.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Domain\obj\Debug\net6.0\Sender.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Domain\obj\Debug\net6.0\Sender.Domain.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Domain\obj\Debug\net6.0\refint\Sender.Domain.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Domain\obj\Debug\net6.0\Sender.Domain.pdb
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Domain\obj\Debug\net6.0\ref\Sender.Domain.dll

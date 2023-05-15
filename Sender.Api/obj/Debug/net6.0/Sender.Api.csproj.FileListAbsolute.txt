@@ -1,0 +1,191 @@
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\appsecrets.json
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Sender.Api.exe
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Sender.Api.deps.json
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Sender.Api.runtimeconfig.json
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Sender.Api.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Sender.Api.pdb
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Serilog.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Sender.Domain.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Sender.Persistence.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Sender.Persistence.pdb
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\bin\Debug\net6.0\Sender.Domain.pdb
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.csproj.AssemblyReference.cache
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.AssemblyInfoInputs.cache
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.AssemblyInfo.cs
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\staticwebassets\msbuild.Sender.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Sender.Api.props
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sender.Api.props
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sender.Api.props
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\scopedcss\bundle\Sender.Api.styles.css
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.csproj.CopyComplete
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\refint\Sender.Api.dll
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.pdb
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.genruntimeconfig.cache
+C:\Users\Ismayil\source\repos\Sender\Sender.Api\obj\Debug\net6.0\ref\Sender.Api.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\appsecrets.json
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Sender.Api.exe
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Sender.Api.deps.json
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Sender.Api.runtimeconfig.json
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Sender.Api.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Sender.Api.pdb
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Dapper.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Hangfire.AspNetCore.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Hangfire.Core.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Hangfire.NetCore.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Hangfire.PostgreSql.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Hangfire.SqlServer.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\MediatR.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\MimeKit.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Npgsql.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Serilog.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\ca\Hangfire.Core.resources.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\de\Hangfire.Core.resources.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\es\Hangfire.Core.resources.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\fa\Hangfire.Core.resources.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\fr\Hangfire.Core.resources.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\nb\Hangfire.Core.resources.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\nl\Hangfire.Core.resources.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\pt\Hangfire.Core.resources.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\sv\Hangfire.Core.resources.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\zh\Hangfire.Core.resources.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Sender.Application.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Sender.Domain.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Sender.Persistence.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Sender.Persistence.pdb
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Sender.Application.pdb
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\bin\Debug\net6.0\Sender.Domain.pdb
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.AssemblyInfo.cs
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\obj\Debug\net6.0\scopedcss\bundle\Sender.Api.styles.css
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.csproj.CopyComplete
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\obj\Debug\net6.0\refint\Sender.Api.dll
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.pdb
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\obj\Debug\net6.0\Sender.Api.genruntimeconfig.cache
+C:\Users\user\Desktop\Developer Task\Sender\Sender.Api\obj\Debug\net6.0\ref\Sender.Api.dll

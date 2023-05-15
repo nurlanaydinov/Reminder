@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BXS0AyL5POTGmRScov2pR7tmr/tyALqZ/Zk8lEFIGQk=",
+  "Source": "Sender.Api",
+  "BasePath": "_content/Sender.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
